@@ -1,0 +1,28 @@
+/* Piano */
+
+.pkey {
+  font-family: "Roboto", sans-serif;
+  font-size: 2rem;
+  height: 200px;
+  width: 50px;
+  padding: 10px;
+  margin: 10px;
+}
+
+#piano {
+  padding: 10% 0%;
+}
+
+.pressed {
+  color: black;
+  background-color: white;
+  border: 2px solid black;
+}
+
+/* Footer */
+
+#footer {
+  padding: 10% 0%;
+}
+
+/* Loading Screen */
